@@ -1,12 +1,12 @@
 # Kafka e Redis em um Sistema de Vendas com Microsserviços
 
-Utilizando Kafka para Mensageria e Redis para Cache de um sistema de vendas com o objetivo de colocar em prática conhecimento sobre mensageria, banco de dados para Cache e Microsserviços com Java e Spring Boot
-
 O projeto está organizado como um Monorepo, facilitando a navegação e a compreensão da estrutura dos diferentes Microsserviços que o compõem.
 
 ## System Design do projeto 💡
 
 <img width="1358" height="781" alt="Captura de tela 2025-08-28 162443" src="https://github.com/user-attachments/assets/43dee16d-97c4-487e-94bc-2ec1fefda2a4" />
+
+Utilizando Kafka para Mensageria e Redis para Cache de um sistema de vendas com o objetivo de colocar em prática conhecimento sobre mensageria, banco de dados para Cache e Microsserviços com Java e Spring Boot
 
 ## Fluxo de Funcionamento 🚀
 O sistema processa pedidos de vendas através de um fluxo assíncrono, garantindo escalabilidade e desacoplamento entre os serviços.
